@@ -10,6 +10,9 @@
   "main": "",
   "repository": "https://github.com/disaac/phoenix-typings",
   "typings": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
   "scripts": {
     "format": "prettier --write *.ts *.json"
   },
