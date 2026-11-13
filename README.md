@@ -1,12 +1,12 @@
 # Typed Phoenix Typings
 
-[`phoenix-typings`](https://github.com/mafredri/phoenix-typings) is the type definition for [Phoenix](https://github.com/kasper/phoenix).
+[`phoenix-typings`](https://github.com/disaac/phoenix-typings) is the type definition for [Phoenix](https://github.com/kasper/phoenix).
 
 ## Installing
 
 ```
 # Inside project
-yarn add 'github:mafredri/phoenix-typings#main'
+yarn add 'github:disaac/phoenix-typings#main'
 ```
 
 ## Using

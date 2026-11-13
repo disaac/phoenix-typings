@@ -8,14 +8,13 @@
     "url": "https://mathias.fi"
   },
   "main": "",
-  "repository": "https://github.com/mafredri/phoenix-typings",
+  "repository": "https://github.com/disaac/phoenix-typings",
   "typings": "index.d.ts",
   "scripts": {
     "format": "prettier --write *.ts *.json"
   },
   "devDependencies": {
-    "prettier": "^3.9.6",
-    "tslint": "^6.1.3",
+    "prettier": "^3.10.1",
     "typescript": "^7.0.2"
   },
   "typeScriptVersion": "2.0",
@@ -25,8 +24,5 @@
     "singleQuote": true,
     "bracketSpacing": false,
     "trailingComma": "es5"
-  },
-  "dependencies": {
-    "utility-types": "^3.11.0"
   }
 }
